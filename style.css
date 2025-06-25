@@ -113,6 +113,12 @@ body {
   background-color: #d88fa1;
 }
 
+.carousel-section img {
+  max-height: 350px;
+  object-fit: cover;
+}
+
+
 #footer {
     background-color: #FFC2E2;
     padding: 10px 0;
