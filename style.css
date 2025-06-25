@@ -118,6 +118,9 @@ body {
   object-fit: cover;
 }
 
+.projects-page {
+  color: #4a2f35; /* Example: warm cocoa tone that pairs well with #EEAAB2 */
+}
 
 #footer {
     background-color: #FFC2E2;
