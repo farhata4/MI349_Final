@@ -122,6 +122,10 @@ body {
   color: #4a2f35; 
 }
 
+.projects-page section {
+  margin-bottom: 5rem; /* Adjust the value as you like */
+}
+
 #footer {
     background-color: #FFC2E2;
     padding: 10px 0;
