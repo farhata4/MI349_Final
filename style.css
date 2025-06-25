@@ -117,6 +117,11 @@ body {
   max-height: 600px;
   object-fit: cover;
 }
+
+.carousel-inner .col-md-6 {
+  max-width: 90%;
+}
+
 .carousel-inner .row {
   padding: 0 3rem; 
 }
@@ -134,7 +139,7 @@ body {
 .carousel-control-next {
   opacity: 1;
   transition: opacity 0.3s ease;
-  width: 7%;
+  width: 5%;
 }
 
 
