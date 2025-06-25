@@ -69,6 +69,10 @@ body {
 .github-box {
   background-color: #eedde4;
   color: #333;
+  padding: 3rem 1.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
 #skills-section h3 {
