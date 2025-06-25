@@ -93,6 +93,26 @@ body {
   background-color: #d88fa1;
 }
 
+.highlight-box {
+  background-color: #eedde4; 
+}
+
+.shadow-lg {
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.2);
+}
+
+.btn-custom {
+  background-color: #EEAAB2;
+  color: white;
+  font-weight: 600;
+  border: none;
+  padding: 0.6rem 1.2rem;
+}
+
+.btn-custom:hover {
+  background-color: #d88fa1;
+}
+
 #footer {
     background-color: #FFC2E2;
     padding: 10px 0;
