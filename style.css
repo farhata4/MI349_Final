@@ -120,8 +120,8 @@ body {
 
 .carousel-control-prev-icon,
 .carousel-control-next-icon {
-  background-color: rgba(0, 0, 0, 0.6);  
-  border-radius: 50%;
+  background-color: rgba(0, 0, 0, 0.445);  
+  border-radius: 40%;
   padding: 1.2rem;
   filter: brightness(2); 
 }
@@ -130,6 +130,7 @@ body {
 .carousel-control-next {
   opacity: 1;
   transition: opacity 0.3s ease;
+  width: 5%;
 }
 
 
