@@ -24,7 +24,7 @@ body {
     padding: 2rem;
 }
 .contact-box {
-    background-color: rgba(255, 255, 255, 0.8);
+    background-color: rgba(255, 255, 255, 0.897);
     color: #EEAAB2;
     border-radius: 10px;
     max-width: 800px;
@@ -33,7 +33,7 @@ body {
     padding: 1.5rem;
 }
 .contact-option {
-    background-color: rgba(255, 255, 255, 0.3);
+    background-color: rgba(255, 255, 255, 0.418);
 }
 
 .text-box {
