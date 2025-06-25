@@ -31,6 +31,15 @@ body {
     text-align: center;
 }
 
+#about-me {
+    background-color: #fdf6f8;
+    color: #333;
+}
+
+#about-me h2 {
+    color: #EEAAB2;
+    font-family: "Unbounded";
+}
 #footer {
     background-color: #888a8b;
     padding: 10px 0;
