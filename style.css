@@ -16,8 +16,28 @@ body {
     height: 60vh;
 }
 
+.contact-banner {
+    background-image: url('Images/banner.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 80vh;
+    padding: 2rem;
+}
+.contact-box {
+    background-color: rgba(255, 255, 255, 0.8);
+    color: #EEAAB2;
+    border-radius: 10px;
+    max-width: 800px;
+    margin: auto;
+    text-align: center;
+    padding: 1.5rem;
+}
+.contact-option {
+    background-color: rgba(255, 255, 255, 0.3);
+}
+
 .text-box {
-    background-color: rgba(255, 255, 255, 0.6);
+    background-color: rgba(255, 255, 255, 0.8);
     color: #EEAAB2;
     border-radius: 10px;
     max-width: 600px;
@@ -41,6 +61,6 @@ body {
     font-family: "Unbounded";
 }
 #footer {
-    background-color: #888a8b;
+    background-color: #FFC2E2;
     padding: 10px 0;
 }
