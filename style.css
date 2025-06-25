@@ -37,7 +37,7 @@ body {
 }
 
 .text-box {
-    background-color: rgba(255, 255, 255, 0.8);
+    background-color: rgb(255, 194, 226, 0.8);
     color: #EEAAB2;
     border-radius: 10px;
     max-width: 600px;
