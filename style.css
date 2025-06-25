@@ -60,6 +60,35 @@ body {
     color: #EEAAB2;
     font-family: "Unbounded";
 }
+
+.experience-box {
+  background-color: #f5f1f3;
+  color: #333;
+}
+
+.github-box {
+  background-color: #eedde4;
+  color: #333;
+}
+
+#skills-section h3 {
+  color: #EEAAB2;
+  font-family: 'Unbounded';
+}
+
+.btn-custom {
+  background-color: #EEAAB2;
+  color: white;
+  border: none;
+  padding: 0.6rem 1.2rem;
+  font-weight: 600;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.btn-custom:hover {
+  background-color: #d88fa1;
+}
+
 #footer {
     background-color: #FFC2E2;
     padding: 10px 0;
